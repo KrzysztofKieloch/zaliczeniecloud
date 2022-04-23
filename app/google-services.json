@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "140145048731",
+    "firebase_url": "https://zaliczenie-27535-default-rtdb.firebaseio.com",
+    "project_id": "zaliczenie-27535",
+    "storage_bucket": "zaliczenie-27535.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140145048731:android:d2ea411dc67698405d5a3e",
+        "android_client_info": {
+          "package_name": "com.example.zaliczenie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140145048731-4v1gk6r4lvqqprnv432a93mdel1pb16n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdn-w_zBvwo1LTV0-8wy_olLV8Pn_biWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140145048731-4v1gk6r4lvqqprnv432a93mdel1pb16n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
